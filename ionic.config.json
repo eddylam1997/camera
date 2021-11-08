@@ -1,0 +1,8 @@
+{
+  "name": "Camera",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "7632951c"
+}
